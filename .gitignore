@@ -1,2 +1,3 @@
 wine.csv
 *.code-workspace
+*.pyc
