@@ -1,0 +1,3 @@
+JDK 다운로드: https://www.oracle.com/kr/java/technologies/downloads/#jdk22-windows
+
+모델 저장/로드 관련: https://docs.h2o.ai/h2o/latest-stable/h2o-docs/save-and-load-model.html
